@@ -65,7 +65,7 @@ class controls
         class Toni_GUI_BarrierCleanup: RscButton
         {
             idc = 1601;
-            text = "Cleanup Selected Barrier Type"; //--- ToDo: Localize;
+            text = "Remove Selected Barrier Type"; //--- ToDo: Localize;
             x = 22 * GUI_GRID_W + GUI_GRID_X;
             y = 8 * GUI_GRID_H + GUI_GRID_Y;
             w = 16 * GUI_GRID_W;
@@ -76,7 +76,7 @@ class controls
         class Toni_GUI_BarrierCleanupButton: RscButton
         {
             idc = 1602;
-            text = "Cleanup All Barriers (10 Meter Radius)"; //--- ToDo: Localize;
+            text = "Remove All Barriers (10 Meter Radius)"; //--- ToDo: Localize;
             x = 22 * GUI_GRID_W + GUI_GRID_X;
             y = 12 * GUI_GRID_H + GUI_GRID_Y;
             w = 16 * GUI_GRID_W;
