@@ -1,6 +1,7 @@
 /*
 Script fn_spawnbarrier.sqf 
 Author: Toni Morton (Inspired by Warnerm's barriers from Altis Life)
+Editor Credits: 
 Description: Makes barriers pop out of you. Lmao. 
 */
 selection = _this select 0;

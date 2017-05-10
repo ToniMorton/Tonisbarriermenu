@@ -1,6 +1,7 @@
 /*
 Script fn_cleanupbarrier.sqf 
 Author: Toni Morton (Inspired by Warnerm's barriers from Altis Life)
+Editor Credits: 
 Description: Makes barriers You placed go away :D  
 */
 _barriertodel = _this select 0;
