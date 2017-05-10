@@ -25,7 +25,7 @@ _barrierlistarray =
 "Plastic Construction Barrier (Orange)",
 "Plastic Construction Barrier (Blue)",
 "Concrete Heavy Barrier",
-"Sandbag Wall",
+"SandBag Wall",
 "RazorWire Fence",
 "Traffic Cone (Brown)",
 "Construction WorkLight"

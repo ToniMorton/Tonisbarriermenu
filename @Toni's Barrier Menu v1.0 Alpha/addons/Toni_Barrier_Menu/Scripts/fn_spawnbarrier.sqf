@@ -59,7 +59,7 @@ switch selection do
             };            
             case "SandBag Wall":
             {
-                ["Land_CncBarrier_stripes_F"] call Barrier_Spawn;
+                ["Land_BagFence_Long_F"] call Barrier_Spawn;
             };            
             case "RazorWire Fence":
             {
