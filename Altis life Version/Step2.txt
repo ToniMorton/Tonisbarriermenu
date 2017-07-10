@@ -1,0 +1,15 @@
+add this to your Functions.h or Functions.hpp (depending on what one you have)
+MAKE SURE THIS IS NOT INSIDE OF ANY OTHER FUNCTIONS!!!
+
+
+class Toni_Barrier_Menu
+    {
+	tag = "Toni";
+	class functions
+	{
+		file = "Toni\Functions";
+            class spawnbarrier {};
+            class barriergui {};
+            class cleanupbarrier {};
+	};
+};

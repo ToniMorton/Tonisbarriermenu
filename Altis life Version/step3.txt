@@ -1,0 +1,19 @@
+add this code to your fn_keyhandler.sqf in  missionfile/core/functions/
+
+
+
+//F5 key, Barrier Menu
+    case 0x3F: {
+        if (side player == "WEST") then 
+        {
+            (findisplay 1705) closedisplay 0;
+            createdialog "Toni_GUI_BarrierGUI";
+        };
+   };
+   
+   
+ 
+
+ 
+ 
+^ This makes the menu open only for cops when the F5 key is pressed
