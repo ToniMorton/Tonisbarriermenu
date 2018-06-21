@@ -12,6 +12,3 @@ Simply press your inventory button in Arma and click the Button in your inventor
 Select the barrier you wish to deploy and then press "Deploy Barrier"
 
 If you wish to remove the barriers after do the exact same process but press "remove barriers of selected type" OR "remove all barriers"
-
-
-If you have any Questions and or comments or would like to make a request for a script to be made for you please contact me on my public discord : https://discord.gg/cUgQbRb
